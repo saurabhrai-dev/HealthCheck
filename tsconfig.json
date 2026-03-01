@@ -1,0 +1,1 @@
+{"compilerOptions": {"target": "esnext","module": "esnext","lib": ["esnext","dom"],"strict": true,"esModuleInterop": true,"skipLibCheck": true,"forceConsistentCasingInFileNames": true},"exclude": ["node_modules"]}

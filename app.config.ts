@@ -1,0 +1,1 @@
+export default ({ production = false } = {}) => { return { scheme: 'healthcheck', name: 'HealthCheck', version: '1.0.0' }; };

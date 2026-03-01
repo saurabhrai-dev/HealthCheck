@@ -1,13 +1,14 @@
-# HealthCheck Application
+# HealthCheck
+This is the HealthCheck app built with React Native and Expo.
 
-This is a complete HealthCheck application.
+## Getting Started
+Instructions on how to setup and run the project.
 
-## Source Files
-- `src/HealthCheck.java`
-- `src/HealthCheckService.java`
-
-## Configurations
-- `config/application.yml`
+## Features
+- Pedometer
+- GPS Tracking
+- Health Points Calculation
+- Screens: Onboarding, Dashboard, Profile, Walking, History
 
 ## Documentation
-- `docs/README.md`
+Comprehensive information on setup and building APK with EAS.

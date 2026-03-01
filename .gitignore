@@ -1,0 +1,9 @@
+# Node modules and package dependencies
+node_modules/
+# Logs
+*.log
+# Build and coverage artifacts
+coverage/
+built/
+# Local environment variables
+.env
