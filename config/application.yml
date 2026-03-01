@@ -1,0 +1,5 @@
+# Application Configuration
+
+version: 1.0
+settings:
+  healthThreshold: 80
